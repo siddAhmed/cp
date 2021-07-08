@@ -1,0 +1,9 @@
+.vscode
+# Ignore everthing inside the bin folder but not the folder itself
+# Use it to store the compiled binaries
+bin/*
+**/__pycache__
+**/test.*
+upload.*
+**/dump
+**/dump.*
